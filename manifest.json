@@ -1,0 +1,9 @@
+{
+    "domain": "jablotron_futura",
+    "name": "Jablotron Futura",
+    "documentation": "https://github.com/extsps/jablotron_futura_ha",
+    "requirements": [],
+    "dependencies": ["modbus"],
+    "codeowners": ["@extsps"],
+    "version": "1.0.0"
+  }
