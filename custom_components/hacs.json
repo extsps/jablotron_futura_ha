@@ -2,8 +2,8 @@
     "name": "Jablotron Futura Heat Recovery",
     "content_in_root": false,
     "domains": ["climate", "sensor"],
-    "country": ["CZ"],
-    "homeassistant": "2023.1.0",
+    "country": ["UA"],
+    "homeassistant": "2024.10.0",
     "render_readme": true,
     "zip_release": false,
     "filename": "custom_components/jablotron_futura/__init__.py"
