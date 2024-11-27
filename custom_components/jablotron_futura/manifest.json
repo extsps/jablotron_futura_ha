@@ -1,9 +1,11 @@
 {
     "domain": "jablotron_futura",
-    "name": "Jablotron Futura",
-    "documentation": "https://github.com/extsps/jablotron_futura_ha",
+    "name": "Jablotron Futura Heat Recovery",
+    "version": "1.0.0",
+    "documentation": "https://github.com/yourusername/jablotron_futura",
     "requirements": [],
-    "dependencies": ["modbus"],
-    "codeowners": ["@extsps"],
-    "version": "1.0.0"
-  }
+    "dependencies": [],
+    "codeowners": ["@yourusername"],
+    "iot_class": "local_polling",
+    "config_flow": true
+}
