@@ -1,8 +1,8 @@
 {
     "domain": "jablotron_futura",
     "name": "Jablotron Futura Heat Recovery",
-    "version": "1.0.0",
-    "documentation": "https://github.com/yourusername/jablotron_futura",
+    "version": "1.0.1",
+    "documentation": "https://github.com/extsps/jablotron_futura_ha",
     "requirements": [],
     "dependencies": [],
     "codeowners": ["@yourusername"],
