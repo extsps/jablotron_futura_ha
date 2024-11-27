@@ -1,9 +1,7 @@
 from homeassistant import config_entries
 import voluptuous as vol
 from homeassistant.const import CONF_IP_ADDRESS, CONF_PORT
-from . import DOMAIN
-
-DEFAULT_PORT = 502
+from . import DOMAIN, DEFAULT_PORT
 
 class JablotronFuturaConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
     """Jablotron Futura config flow."""
